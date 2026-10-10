@@ -17,6 +17,11 @@
    "nombre": "LayerZero"
   },
   {
+   "coin_id": "starknet",
+   "simbolo": "STRK",
+   "nombre": "Starknet"
+  },
+  {
    "coin_id": "meteora",
    "simbolo": "MET",
    "nombre": "Meteora"
@@ -25,11 +30,6 @@
    "coin_id": "aave",
    "simbolo": "AAVE",
    "nombre": "Aave"
-  },
-  {
-   "coin_id": "starknet",
-   "simbolo": "STRK",
-   "nombre": "Starknet"
   },
   {
    "coin_id": "okb",
